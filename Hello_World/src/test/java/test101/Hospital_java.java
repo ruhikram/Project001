@@ -22,6 +22,7 @@ public class Hospital_java {
 
 			String hName = hospName.getText();
 
+			
 			System.out.println("name of the hospital : " + hName);
 		
 
